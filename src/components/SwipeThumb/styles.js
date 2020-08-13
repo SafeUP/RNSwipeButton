@@ -13,8 +13,8 @@ const Styles = StyleSheet.create({
     margin,
   },
   containerRTL: {
-    alignItems: 'flex-start',
-    alignSelf: 'flex-end',
+    alignItems: 'flex-end',
+    alignSelf: 'flex-start',
     borderRadius: maxContainerHeight / 2,
     borderLeftWidth: 0,
     borderWidth,
